@@ -1,0 +1,16 @@
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.exe
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.deps.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.runtimeconfig.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.runtimeconfig.dev.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\bin\Debug\net5.0\Exercico1002.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.csproj.AssemblyReference.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.AssemblyInfoInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.AssemblyInfo.cs
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.csproj.CoreCompileInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\refint\Exercico1002.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\Exercico1002.genruntimeconfig.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Exercico1002\obj\Debug\net5.0\ref\Exercico1002.dll

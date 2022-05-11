@@ -1,0 +1,16 @@
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.exe
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.deps.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.runtimeconfig.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.runtimeconfig.dev.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\bin\Debug\net5.0\Constante.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.csproj.AssemblyReference.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.AssemblyInfoInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.AssemblyInfo.cs
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.csproj.CoreCompileInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\refint\Constante.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\Constante.genruntimeconfig.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\Constante\obj\Debug\net5.0\ref\Constante.dll

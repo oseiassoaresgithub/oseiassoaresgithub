@@ -1,0 +1,32 @@
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.AssemblyInfo.cs
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.exe
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.deps.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.runtimeconfig.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\refint\1048.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.genruntimeconfig.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1048\obj\Debug\net5.0\ref\1048.dll
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.exe
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.deps.json
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.runtimeconfig.json
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.runtimeconfig.dev.json
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.dll
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\bin\Debug\net5.0\1048.pdb
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.csproj.AssemblyReference.cache
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.AssemblyInfoInputs.cache
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.AssemblyInfo.cs
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.csproj.CoreCompileInputs.cache
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.dll
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\refint\1048.dll
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.pdb
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\1048.genruntimeconfig.cache
+C:\Users\oseia\OneDrive\Área de Trabalho\GitHub\exercicios\MeusExercicios\1048\obj\Debug\net5.0\ref\1048.dll

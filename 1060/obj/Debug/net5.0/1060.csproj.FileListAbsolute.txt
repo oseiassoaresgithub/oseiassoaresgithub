@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.exe
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.deps.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.runtimeconfig.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\bin\Debug\net5.0\1060.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.AssemblyInfo.cs
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\refint\1060.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\1060.genruntimeconfig.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1060\obj\Debug\net5.0\ref\1060.dll

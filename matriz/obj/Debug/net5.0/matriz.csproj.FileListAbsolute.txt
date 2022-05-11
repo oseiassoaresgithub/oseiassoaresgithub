@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.exe
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.deps.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.runtimeconfig.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\bin\Debug\net5.0\matriz.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.AssemblyInfo.cs
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\refint\matriz.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\matriz.genruntimeconfig.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\matriz\obj\Debug\net5.0\ref\matriz.dll

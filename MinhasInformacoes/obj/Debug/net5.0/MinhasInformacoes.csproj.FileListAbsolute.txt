@@ -1,0 +1,16 @@
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.exe
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.deps.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.runtimeconfig.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.runtimeconfig.dev.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\bin\Debug\net5.0\MinhasInformacoes.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.csproj.AssemblyReference.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.AssemblyInfoInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.AssemblyInfo.cs
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.csproj.CoreCompileInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\refint\MinhasInformacoes.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\MinhasInformacoes.genruntimeconfig.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MinhasInformacoes\obj\Debug\net5.0\ref\MinhasInformacoes.dll

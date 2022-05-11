@@ -1,0 +1,16 @@
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.exe
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.deps.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.runtimeconfig.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.runtimeconfig.dev.json
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\bin\Debug\net5.0\MEUPRIMEIROCODIGO.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.csproj.AssemblyReference.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.AssemblyInfoInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.AssemblyInfo.cs
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.csproj.CoreCompileInputs.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\refint\MEUPRIMEIROCODIGO.dll
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.pdb
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\MEUPRIMEIROCODIGO.genruntimeconfig.cache
+C:\Users\oseias.soares\Desktop\MeuPrimeiroCodigo\exercicios\MeusExercicios\MEUPRIMEIROCODIGO\obj\Debug\net5.0\ref\MEUPRIMEIROCODIGO.dll

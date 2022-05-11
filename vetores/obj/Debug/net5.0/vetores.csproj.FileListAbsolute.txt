@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.exe
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.deps.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.runtimeconfig.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\bin\Debug\net5.0\vetores.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.AssemblyInfo.cs
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\refint\vetores.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\vetores.genruntimeconfig.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\vetores\obj\Debug\net5.0\ref\vetores.dll

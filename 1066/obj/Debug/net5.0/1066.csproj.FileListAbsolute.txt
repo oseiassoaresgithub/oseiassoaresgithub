@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.exe
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.deps.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.runtimeconfig.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\bin\Debug\net5.0\1066.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.AssemblyInfo.cs
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\refint\1066.dll
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.pdb
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\1066.genruntimeconfig.cache
+C:\Users\guest03\Desktop\oseias\exercicios\MeusExercicios\1066\obj\Debug\net5.0\ref\1066.dll
