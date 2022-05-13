@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\matriz\\matriz.csproj",
-      "projectName": "matriz",
-      "projectPath": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\matriz\\matriz.csproj",
+      "projectUniqueName": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\matriz\\jogo da velhice.csproj",
+      "projectName": "jogo da velhice",
+      "projectPath": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\matriz\\jogo da velhice.csproj",
       "packagesPath": "C:\\Users\\oseia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\matriz\\obj\\",
       "projectStyle": "PackageReference",
