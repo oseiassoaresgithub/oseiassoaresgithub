@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.exe
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.deps.json
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.runtimeconfig.json
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.dll
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\bin\Debug\net5.0\1072.pdb
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.AssemblyInfo.cs
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.dll
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\refint\1072.dll
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.pdb
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\1072.genruntimeconfig.cache
+C:\Users\guest03\Desktop\Nova pasta\oseiassoaresgithub\1072\obj\Debug\net5.0\ref\1072.dll

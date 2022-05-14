@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\1004\\1004.csproj": {}
+    "C:\\Users\\guest03\\Desktop\\Nova pasta\\oseiassoaresgithub\\1004\\1004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\1004\\1004.csproj": {
+    "C:\\Users\\guest03\\Desktop\\Nova pasta\\oseiassoaresgithub\\1004\\1004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\1004\\1004.csproj",
+        "projectUniqueName": "C:\\Users\\guest03\\Desktop\\Nova pasta\\oseiassoaresgithub\\1004\\1004.csproj",
         "projectName": "1004",
-        "projectPath": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\1004\\1004.csproj",
-        "packagesPath": "C:\\Users\\oseia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oseia\\OneDrive\\Área de Trabalho\\GitHub\\exercicios\\MeusExercicios\\1004\\obj\\",
+        "projectPath": "C:\\Users\\guest03\\Desktop\\Nova pasta\\oseiassoaresgithub\\1004\\1004.csproj",
+        "packagesPath": "C:\\Users\\guest03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guest03\\Desktop\\Nova pasta\\oseiassoaresgithub\\1004\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oseia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guest03\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
